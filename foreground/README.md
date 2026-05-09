@@ -12,17 +12,13 @@ I've had stuck mentally with my original \[GitXP vision](https://github.com/abra
 
 So maybe I should split a more philosophical part of my existing draft into more philosophical direction with \[VACUITY cognitive basis](https://github.com/abramsci/VACUITY)? 
 
-The gigachud move would be to turn it into a completely open-sourced scientific paper and write in public.
+The Giga-Chad move would be to turn it into a completely open-sourced scientific paper and write in public.
 
 Sure it can lead to someone 'stealing' my awesome ideas but in reality - who would even care?
 
 People of questionable ethics are probably too busy gambling with prompts and wasting electrical power to produce more CO2 with vanity projects no-one in the real world cares about (like \[this example](https://crates.io/crates/sciforge)).
 
 On the other hand - a paper written in open-source format would allow people who really care to contribute and collaborate!
-
-
-
-\### Background (AD-2013--2025) -> \[me.md](me.md)
 
 
 
